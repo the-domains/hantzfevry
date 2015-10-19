@@ -2,21 +2,21 @@
 description: 'Hantz Fevry Associate at Google | Entrepreneur | Fintech | Founder at I.Trade International Edit postView stats Mobile Ready? Aug 17, 2015791 views106 Likes6 Co'
 isBasedOnUrl: 'https://www.linkedin.com/pulse/mobile-ready-hantz-fevry'
 author: []
-datePublished: '2015-10-19T19:58:00.470Z'
+datePublished: '2015-10-19T21:02:52.920Z'
 publisher:
   name: linkedin.com
   domain: www.linkedin.com
   url: null
   favicon: null
 title: ''
-dateModified: '2015-10-19T19:57:53.543Z'
+dateModified: '2015-10-19T21:02:45.089Z'
 sourcePath: _posts/2015-10-19-hantz-fevry-associate-at-google-or-entrepreneur-or-fintech-or-f.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 authors: []
 _context: 'http://schema.org'
